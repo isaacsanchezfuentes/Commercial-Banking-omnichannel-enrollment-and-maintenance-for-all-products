@@ -10,3 +10,4 @@ Went throught compliance and legal teams to approve them for all products lines
 • Parameter-driven form rendering
 • Financial product presentation modules
 • Responsive service navigation architecture
+displayed layouts and UI designs were anonymized with IA tools
